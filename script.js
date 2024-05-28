@@ -17,7 +17,7 @@ document.getElementById('musicToggle').addEventListener('click', function() {
     }
 });
 
-window.addEventListener('DOMContentLoaded', () => {
-    const buttonMusic = document.getElementById('musicToggle');
-    buttonMusic.dispatchEvent(new Event('click'));
-})
+// window.addEventListener('DOMContentLoaded', () => {
+//     const buttonMusic = document.getElementById('musicToggle');
+//     buttonMusic.dispatchEvent(new Event('click'));
+// })
